@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100vh;
+    text-align: center;
+}
+
+#heading-container{
+    margin-top: 12rem; 
+}
+
+h2{
+    margin-top: 1rem;
+}
